@@ -27,7 +27,7 @@ Once this has all been completed, the robot should be ready to go. Now, you can 
 3. When the connected notifier appears, the app is ready to go. The user will read (press "begin reading" to start reading and "stop reading" to proceed to the next part) and answer questions afterwards (press "question" button).
 
 <p align="center">
-    <img src="" 
+    <img src="https://github.com/jlunaing/Reading_Robot/blob/a0297223b0f796758bc3788b7378f4aecf31871a/img/ref_app_01.jpg" 
     width=40%    
     alt="Android app intro screen."/>
 </p>

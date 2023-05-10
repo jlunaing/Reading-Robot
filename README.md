@@ -1,17 +1,6 @@
 ### Reading-Robot
 A socially assistive robot that can help students with reading practice. For 
-instructions on how to use the system, see [user guide]().
-
-1. [Background](#background)
-2. [Making a Reading Robot](#making-a-reading-robot)
-   1. [Part List](#part-list)
-      1. [General parts:](#general-parts)
-      2. [Actuation:](#actuation)
-      3. [Fasteners:](#fasteners)
-      4. [Electronics:](#electronics)
-   2. [Power:](#power)
-   3. [Code](#code)
-
+instructions on how to use the system, see [user guide](user_guide.md).
 
 ## Background
 
@@ -86,13 +75,13 @@ or the [CAD files](src/hardware/cad/solidworks/). Some reference images are
 included below.
 
 <p align="center">
-    <img src="" 
+    <img src="https://github.com/jlunaing/Reading_Robot/blob/a0297223b0f796758bc3788b7378f4aecf31871a/img/ref_body.jpg" 
     width=40%    
     alt="Body assembly"/>
 </p>
 
 <p align="center">
-    <img src="" 
+    <img src="https://github.com/jlunaing/Reading_Robot/blob/a0297223b0f796758bc3788b7378f4aecf31871a/img/ref_head.jpg" 
     width=40%    
     alt="Head assembly"/>
 </p>
