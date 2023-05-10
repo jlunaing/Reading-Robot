@@ -27,7 +27,7 @@ on its LED screen. This gives the interaction with the user more embodiment.
 To make one of this robots, the following parts are needed:
 
 #### General parts:
-- 3D printed parts (see [CAD files](src/hardware/cad/solidworks/)).
+- 3D printed parts (see [CAD files](src/hardware/cad/solidworks/))
 - Android phone (1)
 - Bluetooth headset (optional) (1)
 - Pimoroni Unicorn Hat HD LED array (1)					

@@ -8,7 +8,7 @@
 1. Locate female USB-C ports on the back of the robot. The bottom port is dedicated to the Raspberry Pi and the one above is connected to the power distribution board.
 
 <p align="center">
-    <img src="" 
+    <img src="https://github.com/jlunaing/Reading_Robot/blob/2aa8ccfefe1cee60c8fae8d322d31eb2f8f626b6/img/ref_ports.png" 
     width=40%    
     alt="Input ports for the robot."/>
 </p>
